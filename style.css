@@ -1,0 +1,78 @@
+.b{
+    background-image: url("images/bckgrnd.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    overflow-x: hidden;
+    background-repeat: repeat-x;
+    position: absolute;
+}
+
+.body{
+    margin: 0px;
+}
+
+.plane{
+    width: 150px;
+    margin-left: 150px;
+    margin-top: 520px;
+    position: absolute;
+}
+
+.m{
+    position: absolute;
+    height: 40px;
+    margin-top: 300px;
+}
+
+.mm{
+    position: absolute;
+    height: 60px;
+    margin-top: 150px;
+}
+
+.mi{
+    position: absolute;
+    height: 60px;
+    margin-top: 440px;
+}
+
+.score{
+    position: absolute;
+    font-size: 80px;
+    font-family: "Arial";
+    font-weight: bold;
+    margin-top: -10px;
+    margin-left: 50px;
+} 
+
+.end{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url("images/bck.png");
+    background-size: cover;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: "Arial";
+    color: rgb(255, 21, 0);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+    visibility: hidden;
+}
+
+.btn{
+    width: 500px;
+    height: 60px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: rgba(4, 255, 0, 0.842);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
