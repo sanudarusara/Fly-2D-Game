@@ -1,5 +1,7 @@
 # ✈️ Sky Rush – 2D Plane Game
 
+![Game Play](images/GamePlay.JPG)
+
 Sky Rush is a simple 2D plane game built using JavaScript, HTML, and CSS.  
 It features smooth animations, continuous background scrolling, and responsive jump/dive movement.  
 Missiles spawn and move toward the plane, and the game ends when the plane gets hit.
@@ -86,3 +88,8 @@ This is done by changing the `src` of the `<img>` element when actions happen.
 - Sprite switching based on player action  
 
 This is a simple but fun project that helped me learn the basics of game development with JavaScript.
+
+![Fly High](images/FlyHigh.JPG)
+![Dive Low](images/DiveLow.JPG)
+![Plane Crash](images/PlaneCrash.png)
+![Game Over](images/GameOver.JPG)
